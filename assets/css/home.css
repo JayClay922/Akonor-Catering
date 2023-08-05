@@ -3,7 +3,17 @@
 }
 
 .nav-link {
-    margin-right: 70px;
+    margin-right: 40px;
     margin-top: 20px;
     width: 120px;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(252,248,237);
+    border: none;
+    box-shadow: 3px 3px black;
+}
+
+.nav-link span {
+    background-color: rgb(252,248,237);
+    font-size: 13px;
 }
